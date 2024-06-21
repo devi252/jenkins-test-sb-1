@@ -15,6 +15,7 @@ public class JenkinsTestSb1Application {
 	}
 	public static void main(String[] args) {
 		SpringApplication.run(JenkinsTestSb1Application.class, args);
+		System.out.println("Application is running......");
 	}
 
 }
